@@ -13,7 +13,6 @@ def square():
     glVertex2f(.2, .7)
     glEnd()
 
-
 def main():
     pygame.init()
     display = (800, 600)
