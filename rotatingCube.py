@@ -33,7 +33,6 @@ colors = (
     (1, 0, 1)  # bottom face (magenta)
 )
 
-
 # draws each vertex and the connects them as QUADS
 def cube():
     glBegin(GL_QUADS)
